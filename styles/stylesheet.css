@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.capital{
+    color: red;
+}
+
+h2.capital{
+    background-color: beige;
+}
