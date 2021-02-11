@@ -10,15 +10,36 @@
     background-color: pink;
 } */
 
-.myspan{
+.myspan {
     padding: 0 5px;
     border-top: 2px solid black;
     border-bottom: 4px solid grey;
 }
-.myp{
+
+.myp {
     border-style: ridge;
     border-color: lightgreen;
     border-width: 10px;
-
     margin: 5px
+}
+
+
+/* about page */
+
+h1,
+h2 {
+    font-family: 'Roboto', sans-serif;
+}
+
+main.aboutpage {
+    background-color: wheat;
+}
+
+.about-h1 {
+    color: red;
+    text-align: center;
+}
+
+body {
+    font-family: 'Crimson Text', serif;
 }
