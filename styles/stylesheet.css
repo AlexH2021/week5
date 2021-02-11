@@ -10,13 +10,12 @@
     background-color: pink;
 } */
 
-span{
+.myspan{
     padding: 0 5px;
     border-top: 2px solid black;
     border-bottom: 4px solid grey;
 }
-
-p{
+.myp{
     border-style: ridge;
     border-color: lightgreen;
     border-width: 10px;
