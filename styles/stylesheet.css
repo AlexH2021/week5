@@ -1,12 +1,11 @@
-*{
-    padding: 0;
-    margin: 0;
-}
-
 .capital{
     color: red;
 }
 
-h2.capital{
+.capital.paris{
     background-color: beige;
+}
+
+#london{
+    background-color: pink;
 }
